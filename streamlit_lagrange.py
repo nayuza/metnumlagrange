@@ -8,7 +8,9 @@ st.markdown("""
 ### Anggota Kelompok:
 - 22.11.5098 Muhamad Rifan Kurniawan  
 - 22.11.5073 M. Nasyid Yunitian Rizal  
-- 22.11.5099 Sofyan  
+- 22.11.5099 Sofyan 
+- 22.11.5117 Muhammad Imam Cahaya Putra
+- 22.11.5086 Aditya Dwi Suryo HardiYanto
 """)
 st.write("---")
 
